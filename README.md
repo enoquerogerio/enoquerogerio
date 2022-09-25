@@ -4,14 +4,14 @@
 - 🌱 I’m currently learning ...
 - ⚡ Fun fact: ...
 
-<div  style="display: inline">
+<div  align="center">
   <a href="https://github.com/enoquerogerio">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=enoquerogerio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enoquerogerio&layout=compact)](https://github.com/enoquerogerio/github-readme-stats)
-  
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enoquerogerio&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<div style="display: inline_block"><br>
+  
+##
+<div style="display: inline_block">
   <img align="center" alt="enoque-js" height="30" width="100" src="https://badges.aleen42.com/src/javascript.svg" />
   <img align="center" alt="enoque-React" height="30" width="100"  src="https://badges.aleen42.com/src/react.svg"/>
   <img align="center" alt="enoque-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -20,4 +20,4 @@
   <img align="center" alt="enoque-java" height="30" width="100" src="https://badges.aleen42.com/src/java.svg">
 </div>
 
-##
+
