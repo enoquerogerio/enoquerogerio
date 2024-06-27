@@ -1,4 +1,4 @@
-### Software Engineer 👋  
+### Backend Developer | Cybersecurity Enthusiast 👋  
 ##
 <div style="display: inline_block">
   <img align="center" alt="enoque-js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
