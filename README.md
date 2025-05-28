@@ -1,4 +1,4 @@
-### Software Developer | Cybersecurity Enthusiast 👋  
+### Software Developer 👋  
 
 
 
